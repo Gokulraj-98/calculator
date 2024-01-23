@@ -1,0 +1,28 @@
+.layout {
+  margin: 200px 500px;
+  height: 400px;
+  width: 300px;
+  border: 2px solid black;
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.display {
+  height: 50px;
+  padding-top: 30px;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+}
+
+.display_num {
+  border: 1px solid black;
+  margin-top: 5px;
+  padding: 20px;
+  text-align: center;
+}
+
+#display {
+  height: 40px;
+  width: 300px;
+  text-align: right;
+}
